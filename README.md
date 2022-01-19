@@ -1,7 +1,7 @@
 # **AI-Final-project**
 ## *This is the NTHU AI course final project* ##
 
-###The project is about the lunch recommed system###
+### The project is about the lunch recommed system ###
 
 |Student ID|Member|
 |-----|--------|
